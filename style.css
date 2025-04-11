@@ -1,0 +1,20 @@
+h3 {
+  color: #7c6b6b;
+  font-size: 60px;
+}
+img {
+  width: 450px;
+}
+
+/* button styles */
+button {
+  background-color: green;
+  padding: 6px 14px;
+  color: white;
+  cursor: pointer;
+  border-radius: 6px;
+  border: none;
+}
+button:hover {
+  background-color: blue;
+}
